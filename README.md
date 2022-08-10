@@ -1,7 +1,10 @@
 # Big-Data-Security-Project
 2021-2 빅데이터보안 수업 최종 프로젝트
 
-개발 언어: python
+- 개발 언어: python
+- 악성/정상 메일 데이터를 fixed length 또는 variable length로 가져와 클러스터링 진행 
+- 이 때 SVC, K-means, DBSCAN 사용하여 각각 비교 
+- t-sne 방법을 사용하여 차원 축소 진행 후 클러스터링 결과를 시각화
 
 <img width="1236" alt="스크린샷 2022-08-10 오후 10 53 51" src="https://user-images.githubusercontent.com/58241963/183919440-6f076bd0-2ee1-4b32-b744-0be3cf569d17.png">
 <img width="1232" alt="스크린샷 2022-08-10 오후 10 54 09" src="https://user-images.githubusercontent.com/58241963/183919507-2f5f0eeb-3f33-4408-a6fa-dab3a3fc545c.png">
